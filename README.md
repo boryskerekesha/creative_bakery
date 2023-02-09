@@ -1,6 +1,6 @@
 # Landing page: Creative_Bakery #
 
-[Link](https://boriskerekesha.github.io/creative_bakery/)
+[Link](https://boryskerekesha.github.io/creative_bakery/)
 
 ***
 ### Adaptive landing page for: #
