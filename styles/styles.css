@@ -114,7 +114,7 @@
   }
 }
 .page__crumbs {
-  background-image: url(./images/Crumbs.png);
+  background-image: url(/images/Crumbs.png);
   background-repeat: no-repeat;
   background-position: center top 178px;
 }
@@ -210,7 +210,7 @@
 }
 .header__main {
   height: 510px;
-  background-image: url(./images/Cookie.png);
+  background-image: url(/images/Cookie.png);
   background-repeat: no-repeat;
   background-size: 288px 290px;
   background-position: center bottom;
