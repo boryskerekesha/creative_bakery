@@ -1,4 +1,4 @@
-# Landing page: NAMU #
+# Landing page: Creative Bakery #
 
 [Link](https://boryskerekesha.github.io/creative_bakery/)
 
